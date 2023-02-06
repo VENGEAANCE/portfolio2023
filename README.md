@@ -1,7 +1,6 @@
 # Portfolio Website
 
-<a href="https://portfolio2023-gules.vercel.app/" 
-target= "_blank" >
+<a href="https://portfolio2023-gules.vercel.app/" target="_blank">
 <img src="images/website.png" alt="Image description">
 </a>
 
