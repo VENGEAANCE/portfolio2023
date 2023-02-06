@@ -1,6 +1,8 @@
 # Portfolio Website
 
-![Website screenshot](images/website.png)(https://portfolio2023-gules.vercel.app/)
+<a href="https://portfolio2023-gules.vercel.app/">
+  <img src="images/website.png" alt="Image description">
+</a>
 
 Welcome to my portfolio website! This website showcases my projects, skills, and experiences.
 
