@@ -1,7 +1,8 @@
 # Portfolio Website
 
-<a href="https://portfolio2023-gules.vercel.app/">
-  <img src="images/website.png" alt="Image description">
+<a href="https://portfolio2023-gules.vercel.app/" 
+target= "_blank" >
+<img src="images/website.png" alt="Image description">
 </a>
 
 Welcome to my portfolio website! This website showcases my projects, skills, and experiences.
