@@ -1,5 +1,7 @@
 # Portfolio Website
 
+![Website screenshot](images/website.png)
+
 Welcome to my portfolio website! This website showcases my projects, skills, and experiences.
 
 # About Me
