@@ -4,6 +4,8 @@
 <img src="images/website.png" alt="Image description">
 </a>
 
+Click the thumbnail to be redirected!
+
 Welcome to my portfolio website! This website showcases my projects, skills, and experiences.
 
 # About Me
